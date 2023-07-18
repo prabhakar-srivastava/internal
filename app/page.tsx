@@ -1,10 +1,8 @@
-import Demo from "@components/demo"
-
+import TableData from "@components/tableData/TableData"
 export default function Home() {
   return (
     <div>
-      helo
-      <Demo />
+      <TableData />
     </div>
   )
 }
